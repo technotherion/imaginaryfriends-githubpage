@@ -245,5 +245,5 @@ a {
     font-size: 0.9rem; } }
 
 #square {
-  width: 20vw;
+  max-width: 20vw;
 }

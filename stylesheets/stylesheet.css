@@ -315,7 +315,7 @@ a {
   float: left;
   width: 17rem;
   height: 17rem;
-  background: url('images/basil.jpg');
+  background: url('/images/basil.jpg');
   background-size: 100% 100%; 
 }
 

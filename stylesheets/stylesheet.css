@@ -251,12 +251,14 @@ a {
 .jalan {
   float: left;
   max-width: 32%;
+  max-height: 32%;
   background: url('https://s-media-cache-ak0.pinimg.com/564x/f0/26/05/f0260599e1251c67eefca31c02a19a81.jpg')
 }
 
 .jalan:hover {
   float: left;
   max-width: 32%;
+  max-height: 32%;
   background: url('https://www.colourbox.com/preview/4670923-kitten-and-chicken.jpg')
 }
 

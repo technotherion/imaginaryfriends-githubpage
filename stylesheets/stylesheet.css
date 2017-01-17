@@ -112,7 +112,9 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
+  text-shadow: 0 0 2px #fff;
   color: #6D5B7B; }
+
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {

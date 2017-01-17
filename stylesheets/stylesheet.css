@@ -271,7 +271,7 @@ a {
   float: left;
   width: 17rem;
   height: 17rem;
-  background: url('https://s-media-cache-ak0.pinimg.com/564x/f0/26/05/f0260599e1251c67eefca31c02a19a81.jpg');
+  background: url('/images/maxwell.jpg');
   background-size: 100% 100%; 
 }
 
@@ -279,7 +279,7 @@ a {
   float: left;
   width: 17rem;
   height: 17rem;
-  background: url('https://www.colourbox.com/preview/4670923-kitten-and-chicken.jpg');
+  background: url('/images/maxwellart.jpg');
   background-size: 100% 100%; 
 }
 

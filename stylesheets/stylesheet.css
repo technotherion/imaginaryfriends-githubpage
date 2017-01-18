@@ -446,7 +446,8 @@ a {
 }
 
 .name {
-height: 0rem;
+  width: 16.5rem;
+  float: left;
 }
 
 .square {

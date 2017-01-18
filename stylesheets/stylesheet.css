@@ -247,17 +247,14 @@ a {
   .site-footer {
     font-size: 0.9rem; } }
 
-#square {
-  max-width: 32%;
-  margin: 0.1rem;
-}
-
 .jalan {
   float: left;
   width: 17rem;
   height: 17rem;
   background: url('https://s-media-cache-ak0.pinimg.com/564x/f0/26/05/f0260599e1251c67eefca31c02a19a81.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
+
 }
 
 .jalan:hover {
@@ -266,6 +263,8 @@ a {
   height: 17rem;
   background: url('/images/jalanart.JPG');
   background-size: 100% 100%; 
+  margin: 0.1rem;
+
 }
 
 .maxwell {
@@ -274,6 +273,7 @@ a {
   height: 17rem;
   background: url('/images/maxwell.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .maxwell:hover{
@@ -282,6 +282,7 @@ a {
   height: 17rem;
   background: url('/images/maxwellart.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .carly {
@@ -289,7 +290,9 @@ a {
   width: 17rem;
   height: 17rem;
   background: url('https://s-media-cache-ak0.pinimg.com/564x/f0/26/05/f0260599e1251c67eefca31c02a19a81.jpg');
-  background-size: 100% 100%; }
+  background-size: 100% 100%; 
+  margin: 0.1rem;
+}
 
 .carly:hover {
   float: left;
@@ -297,6 +300,7 @@ a {
   height: 17rem;
   background: url('https://www.colourbox.com/preview/4670923-kitten-and-chicken.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .nathan {
@@ -305,6 +309,7 @@ a {
   height: 17rem;
   background: url('/images/nathan.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .nathan:hover {
@@ -313,6 +318,7 @@ a {
   height: 17rem;
   background: url('/images/nathanart.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .basil {
@@ -321,6 +327,7 @@ a {
   height: 17rem;
   background: url('/images/basil.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .basil:hover {
@@ -329,6 +336,7 @@ a {
   height: 17rem;
   background: url('/images/basilart.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .jalen {
@@ -337,6 +345,7 @@ a {
   height: 17rem;
   background: url('https://s-media-cache-ak0.pinimg.com/564x/f0/26/05/f0260599e1251c67eefca31c02a19a81.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .jalen:hover {
@@ -345,6 +354,7 @@ a {
   height: 17rem;
   background: url('/images/jalenart.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .ruby {
@@ -353,6 +363,7 @@ a {
   height: 17rem;
   background: url('https://s-media-cache-ak0.pinimg.com/564x/f0/26/05/f0260599e1251c67eefca31c02a19a81.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .ruby:hover {
@@ -361,6 +372,7 @@ a {
   height: 17rem;
   background: url('https://www.colourbox.com/preview/4670923-kitten-and-chicken.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .elora {
@@ -369,6 +381,7 @@ a {
   height: 17rem;
   background: url('https://s-media-cache-ak0.pinimg.com/564x/f0/26/05/f0260599e1251c67eefca31c02a19a81.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .elora:hover {
@@ -377,6 +390,7 @@ a {
   height: 17rem;
   background: url('https://www.colourbox.com/preview/4670923-kitten-and-chicken.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .nancy {
@@ -385,6 +399,7 @@ a {
   height: 17rem;
   background: url('https://s-media-cache-ak0.pinimg.com/564x/f0/26/05/f0260599e1251c67eefca31c02a19a81.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .nancy:hover {
@@ -393,6 +408,7 @@ a {
   height: 17rem;
   background: url('https://www.colourbox.com/preview/4670923-kitten-and-chicken.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .alexis {
@@ -401,6 +417,7 @@ a {
   height: 17rem;
   background: url('https://s-media-cache-ak0.pinimg.com/564x/f0/26/05/f0260599e1251c67eefca31c02a19a81.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .alexis:hover {
@@ -409,6 +426,7 @@ a {
   height: 17rem;
   background: url('/images/alexisart.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .susannah {
@@ -417,6 +435,7 @@ a {
   height: 17rem;
   background: url('https://s-media-cache-ak0.pinimg.com/564x/f0/26/05/f0260599e1251c67eefca31c02a19a81.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .susannah:hover {
@@ -425,6 +444,7 @@ a {
   height: 17rem;
   background: url('https://www.colourbox.com/preview/4670923-kitten-and-chicken.jpg');
   background-size: 100% 100%; 
+  margin: 0.1rem;
 }
 
 .logo {
@@ -433,6 +453,6 @@ a {
   height: 17rem;
   background: url('https://s-media-cache-ak0.pinimg.com/564x/f0/26/05/f0260599e1251c67eefca31c02a19a81.jpg');
   background-size: 100% 100%; 
-  margin: 0.5rem;
+  margin: 0.1rem;
 }
 

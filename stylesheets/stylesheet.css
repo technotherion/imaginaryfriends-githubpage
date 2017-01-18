@@ -445,3 +445,6 @@ a {
   margin: 0.5rem;
 }
 
+.name {
+  position: relative;
+}

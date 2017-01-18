@@ -446,10 +446,8 @@ a {
 }
 
 .name {
-  position: relative;
-  width: 16.4rem;
+height: 0rem;
 }
 
 .square {
-  position: absolute;
 }

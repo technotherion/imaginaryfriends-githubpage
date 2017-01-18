@@ -249,18 +249,18 @@ a {
 
 .jalan {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/jalan.jpg');
   background-size: 100% 100%; 
-  margin: 0.2rem;
+  margin: 0.5rem;
 
 }
 
 .jalan:hover {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/jalanart.JPG');
   background-size: 100% 100%; 
 
@@ -268,180 +268,180 @@ a {
 
 .maxwell {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/maxwell.jpg');
   background-size: 100% 100%; 
-  margin: 0.2rem;
+  margin: 0.5rem;
 }
 
 .maxwell:hover{
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/maxwellart.jpg');
   background-size: 100% 100%; 
 }
 
 .carly {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/carly.jpg');
   background-size: 100% 100%; 
-  margin: 0.2rem;
+  margin: 0.5rem;
 }
 
 .carly:hover {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/carlyart.jpg');
   background-size: 100% 100%; 
 }
 
 .nathan {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/nathan.jpg');
   background-size: 100% 100%; 
-  margin: 0.2rem;
+  margin: 0.5rem;
 }
 
 .nathan:hover {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/nathanart.jpg');
   background-size: 100% 100%; 
 }
 
 .basil {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/basil.jpg');
   background-size: 100% 100%; 
-  margin: 0.2rem;
+  margin: 0.5rem;
 }
 
 .basil:hover {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/basilart.jpg');
   background-size: 100% 100%; 
 }
 
 .jalen {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/jalen.jpg');
   background-size: 100% 100%; 
-  margin: 0.2rem;
+  margin: 0.5rem;
 }
 
 .jalen:hover {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/jalenart.jpg');
   background-size: 100% 100%; 
 }
 
 .ruby {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/ruby.jpg');
   background-size: 100% 100%; 
-  margin: 0.2rem;
+  margin: 0.5rem;
 }
 
 .ruby:hover {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/rubyart.jpg');
   background-size: 100% 100%; 
 }
 
 .elora {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/elora.jpg');
   background-size: 100% 100%; 
-  margin: 0.2rem;
+  margin: 0.5rem;
 }
 
 .elora:hover {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/eloraart.jpg');
   background-size: 100% 100%; 
 }
 
 .nancy {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/nancy.jpg');
   background-size: 100% 100%; 
-  margin: 0.2rem;
+  margin: 0.5rem;
 }
 
 .nancy:hover {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/nancyart.jpg');
   background-size: 100% 100%; 
 }
 
 .alexis {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('images/alexis.jpg');
   background-size: 100% 100%; 
-  margin: 0.2rem;
+  margin: 0.5rem;
 }
 
 .alexis:hover {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/alexisart.jpg');
   background-size: 100% 100%; 
 }
 
 .susannah {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/susannah.jpg');
   background-size: 100% 100%; 
-  margin: 0.2rem;
+  margin: 0.5rem;
 }
 
 .susannah:hover {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('/images/susannahart.jpg');
   background-size: 100% 100%; 
 }
 
 .logo {
   float: left;
-  width: 17rem;
-  height: 17rem;
+  width: 16.5rem;
+  height: 16.5rem;
   background: url('https://s-media-cache-ak0.pinimg.com/564x/f0/26/05/f0260599e1251c67eefca31c02a19a81.jpg');
   background-size: 100% 100%; 
-  margin: 0.2rem;
+  margin: 0.5rem;
 }
 

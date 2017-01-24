@@ -73,8 +73,8 @@ a {
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem; 
-  width: 64rem;
-  height: 39rem;
+  width: 32rem;
+  height: 19.5rem;
   background-image:url('/images/logolong.png');
   background-size: 100% 100%
 }

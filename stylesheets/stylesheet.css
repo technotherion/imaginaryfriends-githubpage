@@ -76,7 +76,8 @@ a {
   width: 32rem;
   height: 19.5rem;
   background-image:url('/images/logolong.png');
-  background-size: 100% 100%
+  background-size: 100% 100%;
+  margin: 0 auto;
 }
 
 @media screen and (min-width: 64em) {

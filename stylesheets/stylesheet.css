@@ -56,7 +56,6 @@ a {
 .page-header {
   color: #000;
   text-align: center;
-  background-color: #fff;
 }
 
 @media screen and (min-width: 64em) {
@@ -76,6 +75,7 @@ a {
   margin-bottom: 0.1rem; 
   width: 100%;
   background-image:url('/image/logolong.png');
+  background-size: 100% 100%
 }
 
 @media screen and (min-width: 64em) {

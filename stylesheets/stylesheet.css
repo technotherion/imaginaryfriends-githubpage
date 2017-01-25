@@ -459,6 +459,7 @@ a {
   background-size: 100% 100%; 
   margin: 0.5rem;
   position: relative;
+  z-index: 2;
 }
 
 .susannah:hover {
@@ -467,7 +468,7 @@ a {
   height: 16.4rem;
   background: url('/images/susannahart.jpg');
   background-size: 100% 100%; 
-  z-index: 2;
+  
 }
 
 .logo {

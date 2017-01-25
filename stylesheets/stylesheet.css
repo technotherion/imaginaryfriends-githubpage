@@ -264,7 +264,7 @@ a {
   background: url('/images/jalanart.JPG');
   background-size: 100% 100%; 
   margin: 0.5rem;
-  z-index: -3;
+  position: relative;
 
 }
 
@@ -284,6 +284,8 @@ a {
   background: url('/images/maxwellart.jpg');
   background-size: 100% 100%; 
   margin: 0.5rem;
+  position: relative;
+
 }
 
 .maxwell:hover{
@@ -302,6 +304,8 @@ a {
   background: url('/images/carlyart.jpg');
   background-size: 100% 100%; 
   margin: 0.5rem;
+  position: relative;
+
 }
 
 .carly:hover {
@@ -340,6 +344,7 @@ a {
   background: url('/images/basilart.jpg');
   background-size: 100% 100%; 
   margin: 0.5rem;
+  position: relative;
 }
 
 .basil:hover {
@@ -358,6 +363,7 @@ a {
   background: url('/images/jalenart.jpg');
   background-size: 100% 100%; 
   margin: 0.5rem;
+  position: relative;
 }
 
 .jalen:hover {
@@ -376,6 +382,7 @@ a {
   background: url('/images/rubyart.jpg');
   background-size: 100% 100%; 
   margin: 0.5rem;
+  position: relative;
 }
 
 .ruby:hover {
@@ -394,6 +401,7 @@ a {
   background: url('/images/eloraart.jpg');
   background-size: 100% 100%; 
   margin: 0.5rem;
+  position: relative;
 }
 
 .elora:hover {
@@ -412,6 +420,7 @@ a {
   background: url('/images/nancyart.jpg');
   background-size: 100% 100%; 
   margin: 0.5rem;
+  position: relative;
 }
 
 .nancy:hover {
@@ -430,6 +439,7 @@ a {
   background: url('/images/alexisart.jpg');
   background-size: 100% 100%; 
   margin: 0.5rem;
+  position: relative;
 }
 
 .alexis:hover {
@@ -448,6 +458,7 @@ a {
   background: url('/images/susannahart.jpg');
   background-size: 100% 100%; 
   margin: 0.5rem;
+  position: relative;
 }
 
 .susannah:hover {

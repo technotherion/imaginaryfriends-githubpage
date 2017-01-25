@@ -261,7 +261,7 @@ a {
   float: left;
   width: 16.4rem;
   height: 16.4rem;
-  background: url('/images/jalanart.jpg');
+  background: url('/images/jalanart.JPG');
   background-size: 100% 100%; 
   margin: 0.5rem;
 
@@ -271,7 +271,6 @@ a {
   float: left;
   width: 16.4rem;
   height: 16.4rem;
-  background: url('/images/jalanart.JPG');
   background-size: 100% 100%; 
   z-index: 2;
 

@@ -56,7 +56,7 @@ a {
 .page-header {
   float: left;
   height: 100vh;
-  width: 25vh;
+  width: 40vh;
   
 }
 
@@ -75,8 +75,8 @@ a {
 /*imaginary friends logo*/
 
 .project-name {
-  width: 25vh;
-  height: 15vh;
+  width: 35vh;
+  height: 25vh;
   background-image:url('/images/logolong.png');
   background-size: 100% 100%;
   margin: 0 auto;

@@ -76,10 +76,9 @@ a {
 
 .project-name {
   width: 35vh;
-  height: 25vh;
+  height: 22vh;
   background-image:url('/images/logolong.png');
   background-size: 100% 100%;
-  margin: 0 auto;
 }
 
 @media screen and (min-width: 64em) {

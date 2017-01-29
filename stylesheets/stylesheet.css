@@ -220,9 +220,11 @@ a {
 @media screen and (min-width: 64em) {
   .main-content {
     float: left;
-    padding: 2rem 6rem;
+    padding: 1vw 1vw;
     margin: 0 auto;
-    font-size: 1.1rem; } }
+    font-size: 1.1rem;
+    width: 75vw;
+  } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .main-content {

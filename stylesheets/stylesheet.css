@@ -224,14 +224,12 @@
     height: 50vw;
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: 50% 50%;
     float: left;
     padding: 4.1rem;
   }
 
   .square:hover {
     background-position: center center;
-    background-size: 50% 50%;
     background-repeat: no-repeat;
   }
 

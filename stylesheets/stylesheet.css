@@ -383,7 +383,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/jalan.png');
+    background: url('/images/jalan.png');
     background-size: 100% 100%;
     margin: 0.5rem;
     position: relative;
@@ -403,7 +403,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/maxwell.png');
+    background: url('/images/maxwell.png');
     background-size: 100% 100%;
     margin: 0.5rem;
     position: relative;
@@ -414,7 +414,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/maxwell.png');
+    background: url('/images/maxwell.png');
     background-size: 100% 100%;
     z-index: 2;
   }
@@ -423,7 +423,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/carly.png');
+    background: url('/images/carly.png');
     background-size: 100% 100%;
     margin: 0.5rem;
     position: relative;
@@ -434,7 +434,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/carly.png');
+    background: url('/images/carly.png');
     background-size: 100% 100%;
     z-index: 2;
   }
@@ -443,7 +443,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/nathan.png');
+    background: url('/images/nathan.png');
     background-size: 100% 100%;
     margin: 0.5rem;
     position: relative;
@@ -454,7 +454,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/nathan.png');
+    background: url('/images/nathan.png');
     background-size: 100% 100%;
     z-index: 2;
   }
@@ -463,7 +463,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/basil.png');
+    background: url('/images/basil.png');
     background-size: 100% 100%;
     margin: 0.5rem;
     position: relative;
@@ -473,7 +473,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/basil.png');
+    background: url('/images/basil.png');
     background-size: 100% 100%;
     z-index: 2;
   }
@@ -482,7 +482,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/jalen.png');
+    background: url('/images/jalen.png');
     background-size: 100% 100%;
     margin: 0.5rem;
     position: relative;
@@ -492,7 +492,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/jalen.png');
+    background: url('/images/jalen.png');
     background-size: 100% 100%;
     z-index: 2;
   }
@@ -501,7 +501,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/ruby.png');
+    background: url('/images/ruby.png');
     background-size: 100% 100%;
     margin: 0.5rem;
     position: relative;
@@ -511,7 +511,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/ruby.png');
+    background: url('/images/ruby.png');
     background-size: 100% 100%;
     z-index: 2;
   }
@@ -520,7 +520,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/elora.png');
+    background: url('/images/elora.png');
     background-size: 100% 100%;
     margin: 0.5rem;
     position: relative;
@@ -530,7 +530,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/elora.png');
+    background: url('/images/elora.png');
     background-size: 100% 100%;
     z-index: 2;
   }
@@ -539,7 +539,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/nancy.png');
+    background: url('/images/nancy.png');
     background-size: 100% 100%;
     margin: 0.5rem;
     position: relative;
@@ -549,7 +549,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/nancy.png');
+    background: url('/images/nancy.png');
     background-size: 100% 100%;
     z-index: 2;
   }
@@ -558,7 +558,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/alexis.png');
+    background: url('/images/alexis.png');
     background-size: 100% 100%;
     margin: 0.5rem;
     position: relative;
@@ -568,7 +568,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/alexis.png');
+    background: url('/images/alexis.png');
     background-size: 100% 100%;
     z-index: 2;
   }
@@ -577,7 +577,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/susannah.png');
+    background: url('/images/susannah.png');
     background-size: 100% 100%;
     margin: 0.5rem;
     position: relative;
@@ -587,7 +587,7 @@
     float: left;
     width: 16.4rem;
     height: 16.4rem;
-    background: url('./images/susannah.png');
+    background: url('/images/susannah.png');
     background-size: 100% 100%;
     z-index: 2;
 

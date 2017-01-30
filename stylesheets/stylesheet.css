@@ -381,8 +381,7 @@
 
   .jalan {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/jalan.png');
     background-size: 100% 100%;
     margin: 0.5rem;
@@ -392,8 +391,7 @@
 
   .jalan:hover {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background-size: 100% 100%;
     z-index: 2;
 
@@ -401,8 +399,7 @@
 
   .maxwell {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/maxwell.png');
     background-size: 100% 100%;
     margin: 0.5rem;
@@ -412,8 +409,7 @@
 
   .maxwell:hover{
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/maxwell.png');
     background-size: 100% 100%;
     z-index: 2;
@@ -421,8 +417,7 @@
 
   .carly {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/carly.png');
     background-size: 100% 100%;
     margin: 0.5rem;
@@ -432,8 +427,7 @@
 
   .carly:hover {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/carly.png');
     background-size: 100% 100%;
     z-index: 2;
@@ -441,19 +435,16 @@
 
   .nathan {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/nathan.png');
     background-size: 100% 100%;
-    margin: 0.5rem;
     position: relative;
 
   }
 
   .nathan:hover {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/nathan.png');
     background-size: 100% 100%;
     z-index: 2;
@@ -461,8 +452,7 @@
 
   .basil {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/basil.png');
     background-size: 100% 100%;
     margin: 0.5rem;
@@ -471,8 +461,7 @@
 
   .basil:hover {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/basil.png');
     background-size: 100% 100%;
     z-index: 2;
@@ -480,8 +469,7 @@
 
   .jalen {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/jalen.png');
     background-size: 100% 100%;
     margin: 0.5rem;
@@ -490,8 +478,7 @@
 
   .jalen:hover {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/jalen.png');
     background-size: 50% 50%;
     z-index: 2;
@@ -499,8 +486,7 @@
 
   .ruby {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/ruby.png');
     background-size: 100% 100%;
     margin: 0.5rem;
@@ -509,8 +495,7 @@
 
   .ruby:hover {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/ruby.png');
     background-size: 100% 100%;
     z-index: 2;
@@ -518,8 +503,7 @@
 
   .elora {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/elora.png');
     background-size: 100% 100%;
     margin: 0.5rem;
@@ -528,8 +512,7 @@
 
   .elora:hover {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/elora.png');
     background-size: 100% 100%;
     z-index: 2;
@@ -537,8 +520,7 @@
 
   .nancy {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/nancy.png');
     background-size: 100% 100%;
     margin: 0.5rem;
@@ -547,8 +529,7 @@
 
   .nancy:hover {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/nancy.png');
     background-size: 100% 100%;
     z-index: 2;
@@ -556,8 +537,7 @@
 
   .alexis {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/alexis.png');
     background-size: 100% 100%;
     margin: 0.5rem;
@@ -566,8 +546,7 @@
 
   .alexis:hover {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/alexis.png');
     background-size: 100% 100%;
     z-index: 2;
@@ -575,8 +554,6 @@
 
   .susannah {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
     background: url('/images/susannah.png');
     background-size: 100% 100%;
     margin: 0.5rem;
@@ -585,8 +562,7 @@
 
   .susannah:hover {
     float: left;
-    width: 16.4rem;
-    height: 16.4rem;
+
     background: url('/images/susannah.png');
     background-size: 100% 100%;
     z-index: 2;
@@ -600,6 +576,8 @@
   }
 
   .square {
+        width: 16.4rem;
+    height: 16.4rem;
   }
 
   .row {

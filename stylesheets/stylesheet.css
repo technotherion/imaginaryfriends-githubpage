@@ -79,141 +79,106 @@
   }
 
   .jalan {
-    float: left;
     background: url('/images/jalan.png');
-    margin: 0.5rem;
     position: relative;
 
   }
 
   .jalan:hover {
-    float: left;
     z-index: 2;
 
   }
 
   .maxwell {
-    float: left;
     background: url('/images/maxwell.png');
-    margin: 0.5rem;
     position: relative;
 
   }
 
   .maxwell:hover{
-    float: left;
     z-index: 2;
   }
 
   .carly {
-    float: left;
     background: url('/images/carly.png');
-    margin: 0.5rem;
     position: relative;
 
   }
 
   .carly:hover {
-    float: left;
     z-index: 2;
   }
 
   .nathan {
-    float: left;
     background: url('/images/nathan.png');
-    margin: 0.5rem;
     position: relative;
 
   }
 
   .nathan:hover {
-    float: left;
     z-index: 2;
   }
 
   .basil {
-    float: left;
     background: url('/images/basil.png');
-    margin: 0.5rem;
     position: relative;
   }
 
   .basil:hover {
-    float: left;
     z-index: 2;
   }
 
   .jalen {
-    float: left;
     background: url('/images/jalen.png');
-    margin: 0.5rem;
     position: relative;
   }
 
   .jalen:hover {
-    float: left;
     z-index: 2;
   }
 
   .ruby {
-    float: left;
     background: url('/images/ruby.png');
-    margin: 0.5rem;
     position: relative;
   }
 
   .ruby:hover {
-    float: left;
     z-index: 2;
   }
 
   .elora {
-    float: left;
     background: url('/images/elora.png');
-    margin: 0.5rem;
     position: relative;
   }
 
   .elora:hover {
-    float: left;
     z-index: 2;
   }
 
   .nancy {
-    float: left;
     background: url('/images/nancy.png');
-
-    margin: 0.5rem;
     position: relative;
   }
 
   .nancy:hover {
-    float: left;
     z-index: 2;
   }
 
   .alexis {
-    float: left;
     background: url('/images/alexis.png');
-    margin: 0.5rem;
     position: relative;
   }
 
   .alexis:hover {
-    float: left;
     z-index: 2;
   }
 
   .susannah {
-    float: left;
     background: url('/images/susannah.png');
-    margin: 0.5rem;
     position: relative;
   }
 
   .susannah:hover {
-    float: left;
-    background: url('/images/susannah.png');
     z-index: 2;
   }
 
@@ -228,6 +193,7 @@
     margin-bottom: 50%;
     margin-left: 40px;
     margin-right: 40px;
+    float: left;
   }
 
   .square:hover {

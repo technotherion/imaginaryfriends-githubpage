@@ -564,7 +564,8 @@
   }
 
   .square {
-    
+    width: 16.4rem;
+    height: 16.4rem
     background-position: center center;
     background-repeat: no-repeat;
     

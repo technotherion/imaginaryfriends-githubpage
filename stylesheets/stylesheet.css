@@ -224,6 +224,7 @@
     height: 50vw;
     background-position: center center;
     background-repeat: no-repeat;
+    background-size: 100% 100%
     float: left;
     padding: 4.1rem;
   }

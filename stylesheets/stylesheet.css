@@ -220,11 +220,11 @@
   }
 
   .square {
-    width: 50vw;
-    height: 50vw;
+    width: 10vw;
+    height: 10vw;
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: 100% 100%
+    background-size: 100% 100%;
     float: left;
     padding: 4.1rem;
   }

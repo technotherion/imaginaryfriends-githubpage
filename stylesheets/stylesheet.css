@@ -584,6 +584,10 @@
     
     padding: 4.1rem;
   }
+  .square:hover {
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
 
   .row {
 

@@ -508,7 +508,7 @@
     height: 8rem;
     background-position: center center;
     background-repeat: no-repeat;
-    
+    float: left;
     padding: 4.1rem;
   }
   .square:hover {

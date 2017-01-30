@@ -83,7 +83,6 @@
 
   .jalan {
     float: left;
-
     background: url('/images/jalan.png');
     background-size: 50% 50%;
     margin: 0.5rem;
@@ -93,7 +92,6 @@
 
   .jalan:hover {
     float: left;
-
     background-size: 50% 50%;
     z-index: 2;
 
@@ -101,7 +99,6 @@
 
   .maxwell {
     float: left;
-
     background: url('/images/maxwell.png');
     background-size: 50% 50%;
     margin: 0.5rem;
@@ -286,6 +283,6 @@
   }
 
   .row {
-width: 60%;
+max-width: 60%;
   }
 

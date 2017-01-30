@@ -438,6 +438,7 @@
 
     background: url('/images/nathan.png');
     background-size: 50% 50%;
+    margin: 0.5rem;
     position: relative;
 
   }

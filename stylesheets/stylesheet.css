@@ -380,7 +380,7 @@
     float: left;
 
     background: url('/images/nathan.png');
-    background-size: 50% 50%;
+    background-size: 100%;
     z-index: 2;
   }
 
@@ -388,7 +388,7 @@
     float: left;
 
     background: url('/images/basil.png');
-    background-size: 50% 50%;
+    background-size: 100%;
     margin: 0.5rem;
     position: relative;
   }
@@ -397,7 +397,7 @@
     float: left;
 
     background: url('/images/basil.png');
-    background-size: 50% 50%;
+    background-size: 100%;
     z-index: 2;
   }
 
@@ -405,7 +405,7 @@
     float: left;
 
     background: url('/images/jalen.png');
-    background-size: 50% 50%;
+    background-size: 100%;
     margin: 0.5rem;
     position: relative;
   }
@@ -414,7 +414,7 @@
     float: left;
 
     background: url('/images/jalen.png');
-    background-size: 50% 50%;
+    background-size: 100%;
     z-index: 2;
   }
 
@@ -422,7 +422,7 @@
     float: left;
 
     background: url('/images/ruby.png');
-    background-size: 50% 50%;
+    background-size: 100%;
     margin: 0.5rem;
     position: relative;
   }
@@ -431,7 +431,7 @@
     float: left;
 
     background: url('/images/ruby.png');
-    background-size: 50% 50%;
+    background-size: 100%;
     z-index: 2;
   }
 
@@ -439,7 +439,7 @@
     float: left;
 
     background: url('/images/elora.png');
-    background-size: 50% 50%;
+    background-size: 100%;
     margin: 0.5rem;
     position: relative;
   }
@@ -448,7 +448,7 @@
     float: left;
 
     background: url('/images/elora.png');
-    background-size: 50% 50%;
+    background-size: 100%;
     z-index: 2;
   }
 
@@ -456,7 +456,6 @@
     float: left;
 
     background: url('/images/nancy.png');
-    background-size: 50% 50%;
     margin: 0.5rem;
     position: relative;
   }
@@ -465,7 +464,6 @@
     float: left;
 
     background: url('/images/nancy.png');
-    background-size: 50% 50%;
     z-index: 2;
   }
 
@@ -473,7 +471,6 @@
     float: left;
 
     background: url('/images/alexis.png');
-    background-size: 50% 50%;
     margin: 0.5rem;
     position: relative;
   }
@@ -482,14 +479,12 @@
     float: left;
 
     background: url('/images/alexis.png');
-    background-size: 50% 50%;
     z-index: 2;
   }
 
   .susannah {
     float: left;
     background: url('/images/susannah.png');
-    background-size: 50% 50%;
     margin: 0.5rem;
     position: relative;
   }
@@ -498,7 +493,6 @@
     float: left;
 
     background: url('/images/susannah.png');
-    background-size: 50% 50%;
     z-index: 2;
 
   }
@@ -510,8 +504,8 @@
   }
 
   .square {
-    width: 16.4rem;
-    height: 16.4rem
+    width: 8rem;
+    height: 8rem;
     background-position: center center;
     background-repeat: no-repeat;
     

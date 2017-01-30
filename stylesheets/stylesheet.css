@@ -1,151 +1,239 @@
 * {
   box-sizing: border-box; }
- 
-body {
-  padding: 0;
-  margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-  color: #606c71; }
 
-a {
-  color: #6D5B7B;
-  text-decoration: none; }
-  a:hover {
-    text-decoration: underline; }
+  body {
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000000;
+  }
 
-.btn {
-  display: inline-block;
-  margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
-  border-style: solid;
-  border-width: 1px;
-  border-radius: 0.3rem;
-  transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
-  .btn + .btn {
-    margin-left: 1rem; }
+  a {
+    font-size: 14px;
+    font-color: #000000;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: inline-block;
+    margin-bottom: -100px;
+    /*width: calc(50% - 4px);*/
+    margin-right: 60px;
+    margin-left: 0px;
+    width: calc(10% + 30px);
+    /*padding: 20px;*/
+  }
 
-.btn:hover {
-  color: rgba(255, 255, 255, 0.8);
-  text-decoration: none;
-  background-color: rgba(255, 255, 255, 0.2);
-  border-color: rgba(255, 255, 255, 0.3); }
-
-@media screen and (min-width: 64em) {
-  .btn {
-    padding: 0.75rem 1rem; } }
-
-@media screen and (min-width: 42em) {
-  .btn {
-    padding: 0.6rem 0.9rem;
-    font-size: 0.9rem; } }
-
-@media screen and (max-width: 42em) {
-  .btn {
+  figure {
     display: block;
-    width: 100%;
-    padding: 0.75rem;
-    font-size: 0.9rem; }
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 40;
+
+
+  }
+
+  figcaption {
+    text-align: center;
+    font-size: 14px;
+    color: #355c7d;
+  }
+
+
+  .if {
+    width: 1em;
+    height: 1rem;
+    background-size: 100% 100%;
+
+
+
+
+  }
+  .if-logo {
+    padding-top: 60px;
+  }
+
+
+  .btn {
+    display: inline-block;
+    margin-bottom: 1rem;
+    margin-left: 5rem;
+    color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(255, 255, 255, 0.08);
+    border-color: rgba(255, 255, 255, 0.2);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0.3rem;
+    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+  }
+  .btn + .btn {
+    margin-left: 1rem;
+  }
+
+  .btn:hover {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.3);
+  }
+
+  @media screen and (min-width: 64em) {
+    .btn {
+      padding: 0.75rem 1rem;
+    }
+  }
+
+  @media screen and (min-width: 42em) {
+    .btn {
+      padding: 0.6rem 0.9rem;
+      font-size: 0.9rem;
+    }
+  }
+
+  @media screen and (max-width: 42em) {
+    .btn {
+      display: block;
+      width: 100%;
+      padding: 0.75rem;
+      font-size: 0.9rem;
+    }
     .btn + .btn {
       margin-top: 1rem;
-      margin-left: 0; } }
+      margin-left: 0;
+    }
 
-.page-header {
-  float: left;
-  height: 100vh;
-  width: 40vh;
-  
-}
+    a {
+      width: calc(50% + 50px);
+    }
+    .main-content{
+      margin-top: 150px;
+    }
+    .if-logo {
+      padding-top: 0px;
+    }
+  }
 
-@media screen and (min-width: 64em) {
   .page-header {
-    padding: 1vw 1vw; } }
+    float: left;
+    height: 100vh;
+    width: 40vh;
 
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .page-header {
-    padding: 3rem 4rem; } }
+  }
 
-@media screen and (max-width: 42em) {
-  .page-header {
-    padding: 2rem 1rem; } }
+  @media screen and (min-width: 64em) {
+    .page-header {
+      padding: 1vw 1vw;
+    }
+  }
 
-/*imaginary friends logo*/
+  @media screen and (min-width: 42em) and (max-width: 64em) {
+    .page-header {
+      padding: 3rem 4rem;
+    }
+  }
 
-.project-name {
-  width: 35vh;
-  height: 22vh;
-  background-image:url('/images/logolong.png');
-  background-size: 100% 100%;
-}
+  @media screen and (max-width: 42em) {
+    .page-header {
+      padding: 2rem 1rem;
+    }
+  }
 
-@media screen and (min-width: 64em) {
+  /*imaginary friends logo*/
+
   .project-name {
-    font-size: 3.25rem; } }
+    width: 35vh;
+    height: 22vh;
+    background-image:url('./images/ logolong.png');
+    background-size: 100% 100%;
+  }
 
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .project-name {
-    font-size: 2.25rem; } }
+  @media screen and (min-width: 64em) {
+    .project-name {
+      font-size: 3.25rem;
+    }
+  }
 
-@media screen and (max-width: 42em) {
-  .project-name {
-    font-size: 1.75rem; } }
+  @media screen and (min-width: 42em) and (max-width: 64em) {
+    .project-name {
+      font-size: 2.25rem;
+    }
+  }
 
-.project-tagline {
-  margin-bottom: 2rem;
-  font-weight: normal;
-  opacity: 0.7; }
+  @media screen and (max-width: 42em) {
+    .project-name {
+      font-size: 1.75rem;
+    }
+  }
 
-@media screen and (min-width: 64em) {
   .project-tagline {
-    font-size: 1.25rem; } }
+    margin-bottom: 2rem;
+    font-weight: normal;
+    opacity: 0.7;
+  }
 
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .project-tagline {
-    font-size: 1.15rem; } }
+  @media screen and (min-width: 64em) {
+    .project-tagline {
+      font-size: 1.25rem;
+    }
+  }
 
-@media screen and (max-width: 42em) {
-  .project-tagline {
-    font-size: 1rem; } }
+  @media screen and (min-width: 42em) and (max-width: 64em) {
+    .project-tagline {
+      font-size: 1.15rem;
+    }
+  }
 
-.main-content :first-child {
-  margin-top: 0; }
+  @media screen and (max-width: 42em) {
+    .project-tagline {
+      font-size: 1rem;
+    }
+  }
 
-.main-content img {
-  max-width: 100%;
-  z-index: -1;
-  position: relative; 
-}
+  .main-content :first-child {
+    margin-top: 0;
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-  margin-top: 2rem;
-  margin-left: 2rem;
-  margin-bottom: 1rem;
-  font-weight: normal;
-  text-shadow: 0 0 3px #fff;
-  color: #6D5B7B; }
+  }
 
-.main-content p {
-  margin-bottom: 1em; }
-.main-content code {
-  padding: 2px 4px;
-  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  font-size: 0.9rem;
-  color: #383e41;
-  background-color: #f3f6fa;
-  border-radius: 0.3rem; }
-.main-content pre {
-  padding: 0.8rem;
-  margin-top: 0;
-  margin-bottom: 1rem;
-  font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  color: #567482;
-  word-wrap: normal;
-  background-color: #f3f6fa;
-  border: solid 1px #dce6f0;
-  border-radius: 0.3rem; }
+  .main-content img {
+    max-width: 50%;
+    z-index: -1;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    text-shadow: 0 0 3px #fff;
+    color: #6D5B7B;
+  }
+
+  .main-content p {
+    margin-bottom: 1em;
+  }
+  .main-content code {
+    padding: 2px 4px;
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-size: 0.9rem;
+    color: #383e41;
+    background-color: #f3f6fa;
+    border-radius: 0.3rem;
+  }
+  .main-content pre {
+    padding: 0.8rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    color: #567482;
+    word-wrap: normal;
+    background-color: #f3f6fa;
+    border: solid 1px #dce6f0;
+    border-radius: 0.3rem;
+  }
   .main-content pre > code {
     padding: 0;
     margin: 0;
@@ -154,335 +242,367 @@ a {
     word-break: normal;
     white-space: pre;
     background: transparent;
-    border: 0; }
-.main-content .highlight {
-  margin-bottom: 1rem; }
+    border: 0;
+  }
+  .main-content .highlight {
+    margin-bottom: 1rem;
+  }
   .main-content .highlight pre {
     margin-bottom: 0;
-    word-break: normal; }
-.main-content .highlight pre, .main-content pre {
-  padding: 0.8rem;
-  overflow: auto;
-  font-size: 0.9rem;
-  line-height: 1.45;
-  border-radius: 0.3rem; }
-.main-content pre code, .main-content pre tt {
-  display: inline;
-  max-width: initial;
-  padding: 0;
-  margin: 0;
-  overflow: initial;
-  line-height: inherit;
-  word-wrap: normal;
-  background-color: transparent;
-  border: 0; }
+    word-break: normal;
+  }
+  .main-content .highlight pre, .main-content pre {
+    padding: 0.8rem;
+    overflow: auto;
+    font-size: 0.9rem;
+    line-height: 1.45;
+    border-radius: 0.3rem;
+  }
+  .main-content pre code, .main-content pre tt {
+    display: inline;
+    max-width: initial;
+    padding: 0;
+    margin: 0;
+    overflow: initial;
+    line-height: inherit;
+    word-wrap: normal;
+    background-color: transparent;
+    border: 0;
+  }
   .main-content pre code:before, .main-content pre code:after, .main-content pre tt:before, .main-content pre tt:after {
-    content: normal; }
-.main-content ul, .main-content ol {
-  margin-top: 0; }
-.main-content blockquote {
-  padding: 0 1rem;
-  margin-left: 0;
-  color: #819198;
-  border-left: 0.3rem solid #dce6f0; }
+    content: normal;
+  }
+  .main-content ul, .main-content ol {
+    margin-top: 0;
+  }
+  .main-content blockquote {
+    padding: 0 1rem;
+    margin-left: 0;
+    color: #819198;
+    border-left: 0.3rem solid #dce6f0;
+  }
   .main-content blockquote > :first-child {
-    margin-top: 0; }
+    margin-top: 0;
+  }
   .main-content blockquote > :last-child {
-    margin-bottom: 0; }
-.main-content table {
-  display: block;
-  width: 100%;
-  overflow: auto;
-  word-break: normal;
-  word-break: keep-all; }
+    margin-bottom: 0;
+  }
+  .main-content table {
+    display: block;
+    width: 100%;
+    overflow: auto;
+    word-break: normal;
+    word-break: keep-all;
+  }
   .main-content table th {
-    font-weight: bold; }
+    font-weight: bold;
+  }
   .main-content table th, .main-content table td {
     padding: 0.5rem 1rem;
-    border: 1px solid #e9ebec; }
-.main-content dl {
-  padding: 0; }
+    border: 1px solid #e9ebec;
+  }
+  .main-content dl {
+    padding: 0;
+  }
   .main-content dl dt {
     padding: 0;
     margin-top: 1rem;
     font-size: 1rem;
-    font-weight: bold; }
+    font-weight: bold;
+  }
   .main-content dl dd {
     padding: 0;
-    margin-bottom: 1rem; }
-.main-content hr {
-  height: 2px;
-  padding: 0;
-  margin: 1rem 0;
-  background-color: #eff0f1;
-  border: 0; }
+    margin-bottom: 1rem;
+  }
+  .main-content hr {
+    height: 2px;
+    padding: 0;
+    margin: 1rem 0;
+    background-color: #eff0f1;
+    border: 0;
+  }
 
-@media screen and (min-width: 64em) {
-  .main-content {
+  @media screen and (min-width: 40em) {
+    .main-content {
+      float: right;
+      padding: 4vw 4vw;
+      margin: 0 auto;
+      font-size: 1.1rem;
+      width: 80vw;
+    }
+  }
+
+  @media screen and (min-width: 42em) and (max-width: 64em) {
+    .main-content {
+      padding: 2rem 4rem;
+      font-size: 1.1rem;
+    }
+  }
+
+  @media screen and (max-width: 42em) {
+    .main-content {
+      padding: 2rem 1rem;
+      font-size: 1rem;
+    }
+  }
+
+  .site-footer {
+    padding-top: 2rem;
+    margin-top: 2rem;
+    border-top: solid 1px #eff0f1;
+  }
+
+  .site-footer-owner {
+    display: block;
+    font-weight: bold;
+  }
+
+  .site-footer-credits {
+    color: #819198;
+  }
+
+  @media screen and (min-width: 64em) {
+    .site-footer {
+      font-size: 1rem;
+    }
+  }
+
+  @media screen and (min-width: 42em) and (max-width: 64em) {
+    .site-footer {
+      font-size: 1rem;
+    }
+  }
+
+  @media screen and (max-width: 42em) {
+    .site-footer {
+      font-size: 0.9rem;
+    }
+  }
+
+  .jalan {
     float: left;
-    padding: 1vw 1vw;
-    margin: 0 auto;
-    font-size: 1.1rem;
-    width: 75vw;
-  } }
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/jalan.png');
+    background-size: 100% 100%;
+    margin: 0.5rem;
+    position: relative;
 
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .main-content {
-    padding: 2rem 4rem;
-    font-size: 1.1rem; } }
+  }
 
-@media screen and (max-width: 42em) {
-  .main-content {
-    padding: 2rem 1rem;
-    font-size: 1rem; } }
+  .jalan:hover {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background-size: 100% 100%;
+    z-index: 2;
 
-.site-footer {
-  padding-top: 2rem;
-  margin-top: 2rem;
-  border-top: solid 1px #eff0f1; }
+  }
 
-.site-footer-owner {
-  display: block;
-  font-weight: bold; }
+  .maxwell {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/maxwell.png');
+    background-size: 100% 100%;
+    margin: 0.5rem;
+    position: relative;
 
-.site-footer-credits {
-  color: #819198; }
+  }
 
-@media screen and (min-width: 64em) {
-  .site-footer {
-    font-size: 1rem; } }
+  .maxwell:hover{
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/maxwell.png');
+    background-size: 100% 100%;
+    z-index: 2;
+  }
 
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .site-footer {
-    font-size: 1rem; } }
+  .carly {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/carly.png');
+    background-size: 100% 100%;
+    margin: 0.5rem;
+    position: relative;
 
-@media screen and (max-width: 42em) {
-  .site-footer {
-    font-size: 0.9rem; } }
+  }
 
-.jalan {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/jalan.png');
-  background-size: 100% 100%; 
-  margin: 0.5rem;
-  position: relative;
+  .carly:hover {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/carly.png');
+    background-size: 100% 100%;
+    z-index: 2;
+  }
 
-}
+  .nathan {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/nathan.png');
+    background-size: 100% 100%;
+    margin: 0.5rem;
+    position: relative;
 
-.jalan:hover {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background-size: 100% 100%; 
-  z-index: 2;
+  }
 
-}
+  .nathan:hover {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/nathan.png');
+    background-size: 100% 100%;
+    z-index: 2;
+  }
 
-.maxwell {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/maxwell.png');
-  background-size: 100% 100%; 
-  margin: 0.5rem;
-  position: relative;
+  .basil {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/basil.png');
+    background-size: 100% 100%;
+    margin: 0.5rem;
+    position: relative;
+  }
 
-}
+  .basil:hover {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/basil.png');
+    background-size: 100% 100%;
+    z-index: 2;
+  }
 
-.maxwell:hover{
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/maxwell.png');
-  background-size: 100% 100%; 
-  z-index: 2;
-}
+  .jalen {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/jalen.png');
+    background-size: 100% 100%;
+    margin: 0.5rem;
+    position: relative;
+  }
 
-.carly {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/carly.png');
-  background-size: 100% 100%; 
-  margin: 0.5rem;
-  position: relative;
+  .jalen:hover {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/jalen.png');
+    background-size: 100% 100%;
+    z-index: 2;
+  }
 
-}
+  .ruby {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/ruby.png');
+    background-size: 100% 100%;
+    margin: 0.5rem;
+    position: relative;
+  }
 
-.carly:hover {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/carly.png');
-  background-size: 100% 100%;
-  z-index: 2;
-}
+  .ruby:hover {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/ruby.png');
+    background-size: 100% 100%;
+    z-index: 2;
+  }
 
-.nathan {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/nathan.png');
-  background-size: 100% 100%; 
-  margin: 0.5rem;
-  position: relative;
+  .elora {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/elora.png');
+    background-size: 100% 100%;
+    margin: 0.5rem;
+    position: relative;
+  }
 
-}
+  .elora:hover {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/elora.png');
+    background-size: 100% 100%;
+    z-index: 2;
+  }
 
-.nathan:hover {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/nathan.png');
-  background-size: 100% 100%; 
-  z-index: 2;
-}
+  .nancy {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/nancy.png');
+    background-size: 100% 100%;
+    margin: 0.5rem;
+    position: relative;
+  }
 
-.basil {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/basil.png');
-  background-size: 100% 100%; 
-  margin: 0.5rem;
-  position: relative;
-}
+  .nancy:hover {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/nancy.png');
+    background-size: 100% 100%;
+    z-index: 2;
+  }
 
-.basil:hover {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/basil.png');
-  background-size: 100% 100%; 
-  z-index: 2;
-}
+  .alexis {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/alexis.png');
+    background-size: 100% 100%;
+    margin: 0.5rem;
+    position: relative;
+  }
 
-.jalen {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/jalen.png');
-  background-size: 100% 100%; 
-  margin: 0.5rem;
-  position: relative;
-}
+  .alexis:hover {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/alexis.png');
+    background-size: 100% 100%;
+    z-index: 2;
+  }
 
-.jalen:hover {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/jalen.png');
-  background-size: 100% 100%;
-  z-index: 2;
-}
+  .susannah {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/susannah.png');
+    background-size: 100% 100%;
+    margin: 0.5rem;
+    position: relative;
+  }
 
-.ruby {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/ruby.png');
-  background-size: 100% 100%; 
-  margin: 0.5rem;
-  position: relative;
-}
+  .susannah:hover {
+    float: left;
+    width: 16.4rem;
+    height: 16.4rem;
+    background: url('./images/susannah.png');
+    background-size: 100% 100%;
+    z-index: 2;
 
-.ruby:hover {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/ruby.png');
-  background-size: 100% 100%; 
-  z-index: 2;
-}
-
-.elora {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/elora.png');
-  background-size: 100% 100%; 
-  margin: 0.5rem;
-  position: relative;
-}
-
-.elora:hover {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/elora.png');
-  background-size: 100% 100%; 
-  z-index: 2;
-}
-
-.nancy {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/nancy.png');
-  background-size: 100% 100%; 
-  margin: 0.5rem;
-  position: relative;
-}
-
-.nancy:hover {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/nancy.png');
-  background-size: 100% 100%; 
-  z-index: 2;
-}
-
-.alexis {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/alexis.png');
-  background-size: 100% 100%; 
-  margin: 0.5rem;
-  position: relative;
-}
-
-.alexis:hover {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/alexis.png');
-  background-size: 100% 100%; 
-  z-index: 2;
-}
-
-.susannah {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/susannah.png');
-  background-size: 100% 100%; 
-  margin: 0.5rem;
-  position: relative;
-}
-
-.susannah:hover {
-  float: left;
-  width: 16.4rem;
-  height: 16.4rem;
-  background: url('/images/susannah.png');
-  background-size: 100% 100%; 
-  z-index: 2;
-  
-}
+  }
 
 
-.name {
-  width: 16.5rem;
-  float: left;
-}
+  .name {
+    width: 16.5rem;
+    float: left;
+  }
 
-.square {
-}
+  .square {
+  }
 
-.row {
-  
-}
+  .row {
+
+  }
+

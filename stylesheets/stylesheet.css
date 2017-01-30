@@ -107,7 +107,6 @@
 
   .maxwell:hover{
     float: left;
-
     background: url('/images/maxwell.png');
     background-size: 50% 50%;
     z-index: 2;
@@ -115,7 +114,6 @@
 
   .carly {
     float: left;
-
     background: url('/images/carly.png');
     background-size: 50% 50%;
     margin: 0.5rem;
@@ -125,7 +123,6 @@
 
   .carly:hover {
     float: left;
-
     background: url('/images/carly.png');
     background-size: 50% 50%;
     z-index: 2;
@@ -133,7 +130,6 @@
 
   .nathan {
     float: left;
-
     background: url('/images/nathan.png');
     background-size: 50% 50%;
     margin: 0.5rem;
@@ -143,24 +139,21 @@
 
   .nathan:hover {
     float: left;
-
     background: url('/images/nathan.png');
-    background-size: 100%;
+    background-size: 50% 50%;
     z-index: 2;
   }
 
   .basil {
     float: left;
-
     background: url('/images/basil.png');
-    background-size: 100%;
+    background-size: 50% 50%;
     margin: 0.5rem;
     position: relative;
   }
 
   .basil:hover {
     float: left;
-
     background: url('/images/basil.png');
     background-size: 100%;
     z-index: 2;
@@ -168,96 +161,97 @@
 
   .jalen {
     float: left;
-
     background: url('/images/jalen.png');
-    background-size: 100%;
+    background-size: 50% 50%;
     margin: 0.5rem;
     position: relative;
   }
 
   .jalen:hover {
     float: left;
-
     background: url('/images/jalen.png');
-    background-size: 100%;
+    background-size: 50% 50%;
     z-index: 2;
   }
 
   .ruby {
     float: left;
-
     background: url('/images/ruby.png');
-    background-size: 100%;
+    background-size: 50% 50%;
     margin: 0.5rem;
     position: relative;
   }
 
   .ruby:hover {
     float: left;
-
     background: url('/images/ruby.png');
-    background-size: 100%;
+    background-size: 50% 50%;
     z-index: 2;
   }
 
   .elora {
     float: left;
-
     background: url('/images/elora.png');
-    background-size: 100%;
+    background-size: 50% 50%;
     margin: 0.5rem;
     position: relative;
   }
 
   .elora:hover {
     float: left;
-
     background: url('/images/elora.png');
-    background-size: 100%;
+    background-size: 50% 50%;
     z-index: 2;
   }
 
   .nancy {
     float: left;
-
     background: url('/images/nancy.png');
+        background-size: 50% 50%;
+
     margin: 0.5rem;
     position: relative;
   }
 
   .nancy:hover {
     float: left;
-
     background: url('/images/nancy.png');
+        background-size: 50% 50%;
+
     z-index: 2;
   }
 
   .alexis {
     float: left;
-
     background: url('/images/alexis.png');
+        background-size: 50% 50%;
+
     margin: 0.5rem;
     position: relative;
   }
 
   .alexis:hover {
     float: left;
-
     background: url('/images/alexis.png');
+        background-size: 50% 50%;
+
     z-index: 2;
   }
 
   .susannah {
     float: left;
     background: url('/images/susannah.png');
+        background-size: 50% 50%;
+
     margin: 0.5rem;
     position: relative;
   }
 
   .susannah:hover {
     float: left;
-
     background: url('/images/susannah.png');
+        background-size: 50% 50%;
+
     z-index: 2;
 
   }
@@ -273,6 +267,7 @@
     height: 8rem;
     background-position: center center;
     background-repeat: no-repeat;
+        background-size: 50% 50%;
     float: left;
     padding: 4.1rem;
   }

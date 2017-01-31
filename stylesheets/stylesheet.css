@@ -176,9 +176,11 @@
   .logo
   {
     float: left;
+    width: 20vw;
   }
 
   .logo img
   {
     width: 20vw;
+
   }

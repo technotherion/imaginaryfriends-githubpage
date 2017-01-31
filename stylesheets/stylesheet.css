@@ -38,33 +38,6 @@
     color: #6D5B7B;
   }
 
-  /*
-
-  @media screen and (min-width: 40em) {
-    .main-content {
-      float: left;
-      padding: 4vw 4vw;
-      margin: 0 auto;
-      font-size: 1.1rem;
-      width: 80vw;
-    }
-  }
-
-  @media screen and (min-width: 42em) and (max-width: 64em) {
-    .main-content {
-      padding: 2rem 4rem;
-      font-size: 1.1rem;
-    }
-  }
-
-  @media screen and (max-width: 42em) {
-    .main-content {
-      padding: 2rem 1rem;
-      font-size: 1rem;
-    }
-  }
-  */
-
   .jalan {
     background: url('../images/jalan.png');
     position: relative;
@@ -176,9 +149,6 @@
     background-repeat: no-repeat;
     background-size: 100% 100%;
     margin-top: 1em;
-    //margin-bottom: 50%;
-    //margin-left: 40px;
-    //margin-right: 40px;
     float: left;
   }
 
@@ -190,10 +160,6 @@
   .square figure
   {
       display: block;
-  //margin-top: 1em;
-  //margin-bottom: 1em;
-  //margin-left: 40px;
-  //margin-right: 40px;
 
   }
 
@@ -205,8 +171,6 @@
 
   .row
   {
-    //max-width: 60%;
-
       margin-bottom: 5em;
       padding: 2em;
       clear: left;

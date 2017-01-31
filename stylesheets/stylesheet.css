@@ -140,7 +140,7 @@
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    margin-top: 1rem;
+    margin-top: 7vh;
     float: left;
   }
 
@@ -163,8 +163,6 @@
 
   .row
   {
-      margin-bottom: 5rem;
-      padding: 2rem;
       clear: left;
   }
 

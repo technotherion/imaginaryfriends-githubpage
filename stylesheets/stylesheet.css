@@ -21,14 +21,14 @@
     margin: 0;
   } 
 
-  .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+ /* .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     margin-top: 2rem;
     margin-left: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
     text-shadow: 0 0 3px #fff;
     color: #6D5B7B;
-  }
+  } */
 
   .jalan {
     background: url('../images/jalan.png');
@@ -170,7 +170,6 @@
 
   .main-content
   {
-    width: 70vw;
     float: left;
 
   }

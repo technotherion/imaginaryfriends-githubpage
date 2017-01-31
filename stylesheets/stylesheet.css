@@ -140,6 +140,7 @@
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    margin: 0;
     margin-bottom: 7vw;
     margin-left: 7vw;
     float: left;
@@ -174,7 +175,7 @@
   }
   .logo
   {
-      float: left;
+    float: left;
   }
 
   .logo img

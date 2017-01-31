@@ -3,21 +3,13 @@
     padding: 0;
     margin: 0;
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 16px;
+    font-size: 8rem;
     line-height: 1.5;
     color: #000000;
   }
 
   a {
-    //font-size: 14px;
-    //font-size: 14px;
-    //font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    //display: inline-block;
-    //margin-bottom: -100px;
-    //margin-right: 60px;
-    //margin-left: 0px;
     color: #355c7d;
-    //width: calc(50% + 50px);
   }
 
   .main-content img
@@ -148,7 +140,7 @@
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    margin-top: 1em;
+    margin-top: 1rem;
     float: left;
   }
 
@@ -171,8 +163,8 @@
 
   .row
   {
-      margin-bottom: 5em;
-      padding: 2em;
+      margin-bottom: 5rem;
+      padding: 2rem;
       clear: left;
   }
 
@@ -190,6 +182,6 @@
   .logo img
   {
     width: 20vw;
-    padding: 2em;
+    padding: 2rem;
 
   }

@@ -184,3 +184,33 @@
     width: 20vw;
 
   }
+
+ @media only screen and (max-width: 768px)
+ {
+  .logo
+  {
+    clear:both;
+    width: 100vw;
+    border: 1px solid black;
+    margin-bottom: 5vw;
+    padding: 1%;
+    padding-left: 7vw;
+  }
+
+   .logo img
+   {
+     width: 30vw;
+   }
+
+   body
+   {
+     margin: 0;
+     padding: 0;
+   }
+
+   .main-content
+   {
+     width: 90vw;
+     margin-left: 10vw;
+   }
+ }

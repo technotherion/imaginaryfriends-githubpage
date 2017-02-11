@@ -188,6 +188,7 @@
   .soc img
   {
    width: 30px;
+   height: 30px;
 }
 
  @media only screen and (max-width: 768px)
@@ -210,6 +211,7 @@
     .soc img
   {
    width: 30px;
+   
 }
 
    body

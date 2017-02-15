@@ -32,108 +32,108 @@
   } */
 
   .jalan {
-    background: url('../images/jalan.png');
+    background: url('../images/jalan_portrait.jpg');
     position: relative;
 
   }
 
-  .jalan:hover {
+/*   .jalan:hover {
     z-index: 2;
 
-  }
+  } */
 
   .maxwell {
-    background: url('../images/maxwell.png');
+    background: url('../images/maxwell_portrait.jpgg');
     position: relative;
 
   }
 
-  .maxwell:hover{
+/*   .maxwell:hover{
     z-index: 2;
-  }
+  } */
 
   .carly {
-    background: url('../images/carly.png');
+    background: url('../images/carly_portrait.jpg');
     position: relative;
 
   }
 
-  .carly:hover {
+/*   .carly:hover {
     z-index: 2;
-  }
+  } */
 
   .nathan {
-    background: url('../images/nathan.png');
+    background: url('../images/nathan_portrait.jpg');
     position: relative;
 
   }
 
-  .nathan:hover {
+/*   .nathan:hover {
     z-index: 2;
-  }
+  } */
 
   .basil {
-    background: url('../images/basil.png');
+    background: url('../images/basil_portrait.jpg');
     position: relative;
   }
 
-  .basil:hover {
+/*   .basil:hover {
     z-index: 2;
-  }
+  } */
 
   .jalen {
-    background: url('../images/jalen.png');
+    background: url('../images/jalen_portrait.jpg');
     position: relative;
   }
 
-  .jalen:hover {
+/*   .jalen:hover {
     z-index: 2;
-  }
+  } */
 
   .ruby {
-    background: url('../images/ruby.png');
+    background: url('../images/ruby_portrait.jpg');
     position: relative;
   }
 
-  .ruby:hover {
+/*   .ruby:hover {
     z-index: 2;
-  }
+  } */
 
   .elora {
-    background: url('../images/elora.png');
+    background: url('../images/elora_portrait.jpg');
     position: relative;
   }
 
-  .elora:hover {
+/*   .elora:hover {
     z-index: 2;
-  }
+  } */
 
   .nancy {
-    background: url('../images/nancy.png');
+    background: url('../images/nancy_portrait.jpg');
     position: relative;
   }
 
-  .nancy:hover {
+/*   .nancy:hover {
     z-index: 2;
-  }
+  } */
 
   .alexis {
-    background: url('../images/alexis.png');
+    background: url('../images/alexis_portrait.jpg');
     position: relative;
   }
 
-  .alexis:hover {
+/*   .alexis:hover {
     z-index: 2;
-  }
+  } */
 
   .susannah {
-    background: url('../images/susannah.png');
+    background: url('../images/susannah_portrait.jpg');
     position: relative;
   }
 
-  .susannah:hover {
+/*   .susannah:hover {
     z-index: 2;
-  }
+  } */
 
   .square {
     width: 10vw;

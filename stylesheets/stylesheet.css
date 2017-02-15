@@ -20,7 +20,7 @@
     position: relative;
     display: block;
     margin: 0;
-    
+    opacity: 0;
     
   } 
 
@@ -39,10 +39,10 @@
 
   }
 
-/*   .jalan:hover {
-    z-index: 2;
-
-  } */
+  .jalan:hover {
+/*     z-index: 2; */
+    opacity: 0.75;
+  }
 
   .maxwell {
     background: url('../images/max_portrait.jpg');
@@ -50,9 +50,10 @@
 
   }
 
-/*   .maxwell:hover{
-    z-index: 2;
-  } */
+  .maxwell:hover{
+/*     z-index: 2; */
+    opacity: 0.75;
+  }
 
   .carly {
     background: url('../images/carly_portrait.jpg');
@@ -60,9 +61,10 @@
 
   }
 
-/*   .carly:hover {
-    z-index: 2;
-  } */
+  .carly:hover {
+/*     z-index: 2; */
+   opacity: 0.75;
+  }
 
   .nathan {
     background: url('../images/nathan_portrait.jpg');
@@ -70,72 +72,80 @@
 
   }
 
-/*   .nathan:hover {
-    z-index: 2;
-  } */
+  .nathan:hover {
+/*     z-index: 2; */
+   opacity: 0.75;
+  }
 
   .basil {
     background: url('../images/basil_portrait.jpg');
     position: relative;
   }
 
-/*   .basil:hover {
-    z-index: 2;
-  } */
+  .basil:hover {
+/*     z-index: 2; */
+   opacity: 0.75;
+  }
 
   .jalen {
     background: url('../images/jalen_portrait.jpg');
     position: relative;
   }
 
-/*   .jalen:hover {
-    z-index: 2;
-  } */
+  .jalen:hover {
+/*     z-index: 2; */
+   opacity: 0.75;
+  }
 
   .ruby {
     background: url('../images/ruby_portrait.jpg');
     position: relative;
   }
 
-/*   .ruby:hover {
-    z-index: 2;
-  } */
+  .ruby:hover {
+/*     z-index: 2; */
+   opacity: 0.75;
+  }
 
   .elora {
     background: url('../images/elora_portrait.jpg');
     position: relative;
   }
 
-/*   .elora:hover {
-    z-index: 2;
-  } */
+  .elora:hover {
+/*     z-index: 2; */
+   opacity: 0.75;
+  }
 
   .nancy {
     background: url('../images/nancy_portrait.jpg');
     position: relative;
   }
 
-/*   .nancy:hover {
-    z-index: 2;
-  } */
+  .nancy:hover {
+/*     z-index: 2; */
+   opacity: 0.75;
+  }
 
   .alexis {
     background: url('../images/alex_portrait.jpg');
     position: relative;
   }
 
-/*   .alexis:hover {
-    z-index: 2;
-  } */
+  .alexis:hover {
+/*     z-index: 2; */
+   opacity: 0.75;
+  }
 
   .susannah {
     background: url('../images/susannah_portrait.jpg');
     position: relative;
   }
 
-/*   .susannah:hover {
-    z-index: 2;
-  } */
+  .susannah:hover {
+/*     z-index: 2; */
+   opacity: 0.75;
+  }
 
   .square {
     width: 10vw;

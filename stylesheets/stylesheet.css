@@ -18,8 +18,10 @@
     max-width: 100%;
     z-index: -1;
     position: relative;
-    display: block;
+    display: none;
     margin: 0;
+    
+    
   } 
 
  /* .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
@@ -43,7 +45,7 @@
   } */
 
   .maxwell {
-    background: url('../images/maxwell_portrait.jpgg');
+    background: url('../images/max_portrait.jpgg');
     position: relative;
 
   }
@@ -118,7 +120,7 @@
   } */
 
   .alexis {
-    background: url('../images/alexis_portrait.jpg');
+    background: url('../images/alex_portrait.jpg');
     position: relative;
   }
 

@@ -225,24 +225,24 @@
 
   #desc
   {
-    width: 140px;
+    width: 35vw;
     float: left;
-    height: 50px;
+    height: 12vw;
   }
 
   #show
   {
-    width: 200px;
+    width: 35vw;
     float: left;
-    height: 50px;
-    margin-left: 15px;
+    height: 12vw;
+    padding-left: 5vw;
   }
 
   #links
   {
-    width: 140px;
+    width: 35vw;
     float: left;
-    height: 50px;
+    height: 10vw;
   }
 
    #header_logo
@@ -254,11 +254,6 @@
      padding-top: 3vw;
    }
 
-  .soc img
-  {
-   width: 30px;
-
-  }
 
    body
    {

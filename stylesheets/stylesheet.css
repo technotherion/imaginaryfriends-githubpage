@@ -3,7 +3,9 @@
     padding: 2vw;
     padding-top: 4vw;
     margin: 0;
-    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+/*     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; */
+   	font-family: "Cabin";
+	   font-style: normal;
     font-size: 0.8rem;
     line-height: 1.5;
     color: #000000;

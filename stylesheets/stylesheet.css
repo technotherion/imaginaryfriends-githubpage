@@ -245,4 +245,11 @@
      width: 90vw;
      margin-left: 10vw;
    }
+	 
+   .square
+   {
+     width: 30vw;
+     height: 30vw;
+     margin-bottom: 5vw;
+   }
  }

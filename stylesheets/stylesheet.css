@@ -23,8 +23,8 @@
     display: block;
     margin: 0;
     opacity: 0;
-    
-  } 
+
+  }
 
  /* .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     margin-top: 2rem;
@@ -188,21 +188,21 @@
     float: left;
 
   }
-  .logo
+  .info
   {
     float: left;
     width: 20vw;
   }
 
-  .logo img
+  .info img
   {
     width: 20vw;
 
   }
-.soc
-{
- float: left;
-}
+  .soc
+  {
+   float: left;
+  }
 
   .soc img
   {
@@ -213,9 +213,9 @@
 
  @media only screen and (max-width: 768px)
  {
-  .logo
+  .info
   {
-    clear:both;
+    clear: both;
     width: 100vw;
     margin-bottom: 4vw;
     padding: 1%;
@@ -223,16 +223,42 @@
     margin-left: 10vw;
   }
 
-   .logo img
+  #desc
+  {
+    width: 140px;
+    float: left;
+    height: 50px;
+  }
+
+  #show
+  {
+    width: 200px;
+    float: left;
+    height: 50px;
+    margin-left: 15px;
+  }
+
+  #links
+  {
+    width: 140px;
+    float: left;
+    height: 50px;
+  }
+
+   #header_logo
    {
-     width: 60vw;
+     width: 50vw;
+     clear: both;
+     padding-left: 10vw;
+     padding-right: 20vw;
+     padding-top: 3vw;
    }
-  
-    .soc img
+
+  .soc img
   {
    width: 30px;
-   
-}
+
+  }
 
    body
    {
@@ -242,14 +268,16 @@
 
    .main-content
    {
+     padding-top: 3vw;
      width: 90vw;
      margin-left: 10vw;
    }
-	 
+
    .square
    {
      width: 30vw;
      height: 30vw;
-     margin-bottom: 5vw;
+     margin-bottom: 8vw;
    }
+
  }

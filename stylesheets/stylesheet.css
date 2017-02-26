@@ -227,22 +227,26 @@ body
  {
    width: 30vw;
    float: left;
-   height: 16vw;
+   height: 12vw;
+   padding-bottom: 10vw;
+
  }
 
  #show
  {
    width: 35vw;
    float: left;
-   height: 16vw;
+   height: 12vw;
    padding-left: 7vw;
+   padding-bottom: 15vw;
  }
 
  #links
  {
-   width: 30vw;
+   width: 35vw;
    float: left;
-   height: 10vw;
+   height: 12vw;
+
  }
 
   #header_logo

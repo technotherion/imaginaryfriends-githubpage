@@ -225,7 +225,7 @@ body
 
  #desc
  {
-   width: 35vw;
+   width: 30vw;
    float: left;
    height: 16vw;
  }
@@ -235,12 +235,12 @@ body
    width: 35vw;
    float: left;
    height: 16vw;
-   padding-left: 5vw;
+   padding-left: 7vw;
  }
 
  #links
  {
-   width: 35vw;
+   width: 30vw;
    float: left;
    height: 10vw;
  }
